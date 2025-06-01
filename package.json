@@ -13,12 +13,14 @@
   "license": "MIT",
   "author": "melinara",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "init.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "discord.js": "^14.19.3"
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "tracer": "^1.3.0"
   },
   "devDependencies": {
     "eslint": "github:eslint/js"
