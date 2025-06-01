@@ -1,0 +1,23 @@
+{
+  "name": "alioth",
+  "version": "1.0.0",
+  "description": "multi purpose search engine inside of discord. continuation of altair",
+  "homepage": "https://github.com/tatsumara/alioth#readme",
+  "bugs": {
+    "url": "https://github.com/tatsumara/alioth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatsumara/alioth.git"
+  },
+  "license": "MIT",
+  "author": "melinara",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
